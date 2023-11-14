@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 21.449 sec <<< FAILURE!
+verificarElIdiomaInglesDeLosTags(com.lan.zxy.BuscarTicketTest)  Time elapsed: 18.774 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Last Name]s> but was:<[Apellido]s>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at com.lan.zxy.BuscarTicketTest.verificarElIdiomaInglesDeLosTags(BuscarTicketTest.java:83)
+

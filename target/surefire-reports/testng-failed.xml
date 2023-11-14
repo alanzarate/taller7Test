@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]" verbose="0">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.lan.zxy.BuscarTicketTest">
+        <methods>
+          <include name="setDriver"/>
+          <include name="verificarElIdiomaInglesDeLosTags"/>
+          <include name="closeDriver"/>
+        </methods>
+      </class> <!-- com.lan.zxy.BuscarTicketTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->
